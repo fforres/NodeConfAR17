@@ -5,6 +5,7 @@ Talk, demos &amp; repos for @fforres talk in NodeConfAR17
 - [NoSpoon Server Code](https://github.com/fforres/nospoon-server)
 - [NoSpoon Demo](nospoon.fforr.es)
 - [Demo departamento](http://departamento.fforr.es)
+- [Departamento Code](https://github.com/fforres/midepa)
 - [Slides](https://www.icloud.com/keynote-live/sc:0mRvLyWrNNDdjlhzb3dZ9Fj87PwAXbDBDKtEKQFRbsjoQfLmMCsYUEY714UzYhxfxWG)
 
 
